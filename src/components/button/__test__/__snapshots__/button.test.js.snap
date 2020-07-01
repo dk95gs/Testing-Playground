@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshop 1`] = `
+<div>
+  <button
+    data-testid="button"
+    onClick={[Function]}
+    style={
+      Object {
+        "backgroundColor": "blue",
+        "borderRadius": "25px",
+        "boxShadow": "none",
+        "fontSize": "2rem",
+        "height": "4rem",
+        "opacity": ".7",
+        "outline": "none",
+        "width": "20rem",
+      }
+    }
+  >
+    Hello
+  </button>
+</div>
+`;
